@@ -1,0 +1,30 @@
+# Market Segmentation Analysis
+
+## 1. Top 3 Most Profitable Products
+Based on transaction data, the highest revenue-generating products are:
+1. **Dorito Corn Chip Supreme 380g** – $40,352.00
+2. **Smiths Crinkle Chip Original Big Bag 380g** – $36,367.60
+3. **Smiths Crinkle Chips Salt & Vinegar 330g** – $34,804.20
+
+These products are likely popular due to their **large pack sizes** and **trusted brands**, making them attractive for both individuals and families.
+
+---
+
+## 2. Most Loyal Customer Segment
+The most valuable customer group is:
+- **Older Families (Budget Buyers)**
+- Total spending: **$168,363.25**
+
+### Hypothesis on Their Buying Behavior
+- They prioritize **affordable, bulk purchases** to maximize value for their families.
+- They prefer **larger pack sizes (330g–380g)** for cost efficiency.
+- Their product choices suggest loyalty to **well-known brands like Smiths and Doritos**.
+
+---
+
+## 3. Business Recommendations
+🔹 **Marketing Strategy**: Target **Older Families (Budget Buyers)** with promotions on value packs.  
+🔹 **Product Strategy**: Focus on **large-pack chips** to maintain high sales.  
+🔹 **Loyalty Program**: Offer **discounts or rewards** for bulk purchases to retain loyal customers.  
+
+This analysis provides key insights to help optimize marketing and sales strategies. 🚀
